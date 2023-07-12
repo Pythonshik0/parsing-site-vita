@@ -1,0 +1,206 @@
+{
+        "Республика Башкортостан":{
+                "Уфа": {
+                        "name": "user_city",
+                        "value": "%7B%22id%22%3A294%2C%22name%22%3A%22%5Cu0423%5Cu0444%5Cu0430%22%2C%22is_delivery%22%3A249%2C%22city_center%22%3A%5B0%2C0%5D%2C%22delivery_cities_search_names%22%3A%5B%22%5Cu0421%5Cu0430%5Cu043c%5Cu0430%5Cu0440%5Cu0430%22%5D%7D",
+                        "path": "/",
+                        "domain":"vitaexpress.ru"
+                        },
+                "Нефтекамск":
+                        {
+                        "name": "user_city",
+                        "value": "%7B%22id%22%3A188%2C%22name%22%3A%22%5Cu041d%5Cu0435%5Cu0444%5Cu0442%5Cu0435%5Cu043a%5Cu0430%5Cu043c%5Cu0441%5Cu043a%22%2C%22is_delivery%22%3A294%2C%22city_center%22%3A%5B0%2C0%5D%2C%22delivery_cities_search_names%22%3A%5B%22%5Cu0423%5Cu0444%5Cu0430%22%5D%7D",
+                        "path": "/",
+                        "domain":"vitaexpress.ru"
+                        },
+                "Стерлитамак":
+                        {
+                        "name": "user_city",
+                        "value": "%7B%22id%22%3A270%2C%22name%22%3A%22%5Cu0421%5Cu0442%5Cu0435%5Cu0440%5Cu043b%5Cu0438%5Cu0442%5Cu0430%5Cu043c%5Cu0430%5Cu043a%22%2C%22is_delivery%22%3A188%2C%22city_center%22%3A%5B0%2C0%5D%2C%22delivery_cities_search_names%22%3A%5B%22%5Cu041d%5Cu0435%5Cu0444%5Cu0442%5Cu0435%5Cu043a%5Cu0430%5Cu043c%5Cu0441%5Cu043a%22%5D%7D",
+                        "path": "/",
+                        "domain":"vitaexpress.ru"
+                        },
+                "Октябрьский":
+                        {
+                        "name": "user_city",
+                        "value": "%7B%22id%22%3A212%2C%22name%22%3A%22%5Cu041e%5Cu043a%5Cu0442%5Cu044f%5Cu0431%5Cu0440%5Cu044c%5Cu0441%5Cu043a%5Cu0438%5Cu0439%22%2C%22is_delivery%22%3A270%2C%22city_center%22%3A%5B0%2C0%5D%2C%22delivery_cities_search_names%22%3A%5B%22%5Cu0421%5Cu0442%5Cu0435%5Cu0440%5Cu043b%5Cu0438%5Cu0442%5Cu0430%5Cu043c%5Cu0430%5Cu043a%22%5D%7D",
+                        "path": "/",
+                        "domain":"vitaexpress.ru"
+                        },
+                "Туймазы":
+                        {
+                        "name": "user_city",
+                        "value": "%7B%22id%22%3A378%2C%22name%22%3A%22%5Cu0422%5Cu0443%5Cu0439%5Cu043c%5Cu0430%5Cu0437%5Cu044b%22%2C%22is_delivery%22%3A212%2C%22city_center%22%3A%5B0%2C0%5D%2C%22delivery_cities_search_names%22%3A%5B%22%5Cu041e%5Cu043a%5Cu0442%5Cu044f%5Cu0431%5Cu0440%5Cu044c%5Cu0441%5Cu043a%5Cu0438%5Cu0439%22%5D%7D",
+                        "path": "/",
+                        "domain":"vitaexpress.ru"
+                        },
+                "Салават":
+                        {
+                        "name": "user_city",
+                        "value": "%7B%22id%22%3A248%2C%22name%22%3A%22%5Cu0421%5Cu0430%5Cu043b%5Cu0430%5Cu0432%5Cu0430%5Cu0442%22%2C%22is_delivery%22%3A378%2C%22city_center%22%3A%5B0%2C0%5D%2C%22delivery_cities_search_names%22%3A%5B%22%5Cu0422%5Cu0443%5Cu0439%5Cu043c%5Cu0430%5Cu0437%5Cu044b%22%5D%7D",
+                        "path": "/",
+                        "domain":"vitaexpress.ru"
+                        },
+                "Белебей":
+                        {
+                        "name": "user_city",
+                        "value": "%7B%22id%22%3A65%2C%22name%22%3A%22%5Cu0411%5Cu0435%5Cu043b%5Cu0435%5Cu0431%5Cu0435%5Cu0439%22%2C%22is_delivery%22%3A248%2C%22city_center%22%3A%5B0%2C0%5D%2C%22delivery_cities_search_names%22%3A%5B%22%5Cu0421%5Cu0430%5Cu043b%5Cu0430%5Cu0432%5Cu0430%5Cu0442%22%5D%7D",
+                        "path": "/",
+                        "domain":"vitaexpress.ru"
+                        },
+                "Чесноковка":
+                        {
+                        "name": "user_city",
+                        "value": "%7B%22id%22%3A17884%2C%22name%22%3A%22%5Cu0427%5Cu0435%5Cu0441%5Cu043d%5Cu043e%5Cu043a%5Cu043e%5Cu0432%5Cu043a%5Cu0430%22%2C%22is_delivery%22%3A65%2C%22city_center%22%3A%5B0%2C0%5D%2C%22delivery_cities_search_names%22%3A%5B%22%5Cu0411%5Cu0435%5Cu043b%5Cu0435%5Cu0431%5Cu0435%5Cu0439%22%5D%7D",
+                        "path": "/",
+                        "domain":"vitaexpress.ru"
+                        },
+                "Чесноковка с":
+                        {
+                        "name": "user_city",
+                        "value": "%7B%22id%22%3A17884%2C%22name%22%3A%22%5Cu0427%5Cu0435%5Cu0441%5Cu043d%5Cu043e%5Cu043a%5Cu043e%5Cu0432%5Cu043a%5Cu0430%22%2C%22is_delivery%22%3A65%2C%22city_center%22%3A%5B0%2C0%5D%2C%22delivery_cities_search_names%22%3A%5B%22%5Cu0411%5Cu0435%5Cu043b%5Cu0435%5Cu0431%5Cu0435%5Cu0439%22%5D%7D",
+                        "path": "/",
+                        "domain":"vitaexpress.ru"
+                        }
+        },
+        "Челябинская область": {
+                "Магнитогорск":  {
+                        "name": "user_city",
+                        "value": "%7B%22id%22%3A356%2C%22name%22%3A%22%5Cu041c%5Cu0430%5Cu0433%5Cu043d%5Cu0438%5Cu0442%5Cu043e%5Cu0433%5Cu043e%5Cu0440%5Cu0441%5Cu043a%22%2C%22is_delivery%22%3A0%2C%22city_center%22%3A%5B0%2C0%5D%2C%22delivery_cities_search_names%22%3A%5B%22%5Cu0427%5Cu0435%5Cu0441%5Cu043d%5Cu043e%5Cu043a%5Cu043e%5Cu0432%5Cu043a%5Cu0430%22%5D%7D",
+                        "path": "/",
+                        "domain":"vitaexpress.ru"
+                        },
+                "Чебаркуль": {
+                        "name": "user_city",
+                        "value": "%7B%22id%22%3A16051%2C%22name%22%3A%22%5Cu0427%5Cu0435%5Cu0431%5Cu0430%5Cu0440%5Cu043a%5Cu0443%5Cu043b%5Cu044c%22%2C%22is_delivery%22%3A356%2C%22city_center%22%3A%5B0%2C0%5D%2C%22delivery_cities_search_names%22%3A%5B%22%5Cu041c%5Cu0430%5Cu0433%5Cu043d%5Cu0438%5Cu0442%5Cu043e%5Cu0433%5Cu043e%5Cu0440%5Cu0441%5Cu043a%22%5D%7D",
+                        "path": "/",
+                        "domain":"vitaexpress.ru"
+                        },
+                "Челябинск": {
+                        "name": "user_city",
+                        "value": "%7B%22id%22%3A305%2C%22name%22%3A%22%5Cu0427%5Cu0435%5Cu043b%5Cu044f%5Cu0431%5Cu0438%5Cu043d%5Cu0441%5Cu043a%22%2C%22is_delivery%22%3A0%2C%22city_center%22%3A%5B0%2C0%5D%2C%22delivery_cities_search_names%22%3A%5B%22%5Cu0427%5Cu0435%5Cu0431%5Cu0430%5Cu0440%5Cu043a%5Cu0443%5Cu043b%5Cu044c%22%5D%7D",
+                        "path": "/",
+                        "domain":"vitaexpress.ru"
+                        }
+        },
+        "Самарская область": {
+                "Самара":{
+                        "name": "user_city",
+                        "value": "%7B%22id%22%3A249%2C%22name%22%3A%22%5Cu0421%5Cu0430%5Cu043c%5Cu0430%5Cu0440%5Cu0430%22%2C%22is_delivery%22%3A305%2C%22city_center%22%3A%5B0%2C0%5D%2C%22delivery_cities_search_names%22%3A%5B%22%5Cu0427%5Cu0435%5Cu043b%5Cu044f%5Cu0431%5Cu0438%5Cu043d%5Cu0441%5Cu043a%22%5D%7D",
+                        "path": "/",
+                        "domain":"vitaexpress.ru"
+                },
+                "Тольятти": {
+                        "name": "user_city",
+                        "value": "%7B%22id%22%3A278%2C%22name%22%3A%22%5Cu0422%5Cu043e%5Cu043b%5Cu044c%5Cu044f%5Cu0442%5Cu0442%5Cu0438%22%2C%22is_delivery%22%3A249%2C%22city_center%22%3A%5B0%2C0%5D%2C%22delivery_cities_search_names%22%3A%5B%22%5Cu0421%5Cu0430%5Cu043c%5Cu0430%5Cu0440%5Cu0430%22%5D%7D",
+                        "path": "/",
+                        "domain":"vitaexpress.ru"
+                },
+                "Новокуйбышевск": {
+                        "name": "user_city",
+                        "value": "%7B%22id%22%3A196%2C%22name%22%3A%22%5Cu041d%5Cu043e%5Cu0432%5Cu043e%5Cu043a%5Cu0443%5Cu0439%5Cu0431%5Cu044b%5Cu0448%5Cu0435%5Cu0432%5Cu0441%5Cu043a%22%2C%22is_delivery%22%3A278%2C%22city_center%22%3A%5B0%2C0%5D%2C%22delivery_cities_search_names%22%3A%5B%22%5Cu0422%5Cu043e%5Cu043b%5Cu044c%5Cu044f%5Cu0442%5Cu0442%5Cu0438%22%5D%7D",
+                        "path": "/",
+                        "domain":"vitaexpress.ru"
+                }
+        },
+        "Республика Татарстан": {
+               "Казань": {
+                        "name": "user_city",
+                        "value": "%7B%22id%22%3A126%2C%22name%22%3A%22%5Cu041a%5Cu0430%5Cu0437%5Cu0430%5Cu043d%5Cu044c%22%2C%22is_delivery%22%3A196%2C%22city_center%22%3A%5B0%2C0%5D%2C%22delivery_cities_search_names%22%3A%5B%22%5Cu041d%5Cu043e%5Cu0432%5Cu043e%5Cu043a%5Cu0443%5Cu0439%5Cu0431%5Cu044b%5Cu0448%5Cu0435%5Cu0432%5Cu0441%5Cu043a%22%5D%7D",
+                        "path": "/",
+                        "domain":"vitaexpress.ru"
+               },
+               "Альметьевск": {
+                        "name": "user_city",
+                        "value": "%7B%22id%22%3A44%2C%22name%22%3A%22%5Cu0410%5Cu043b%5Cu044c%5Cu043c%5Cu0435%5Cu0442%5Cu044c%5Cu0435%5Cu0432%5Cu0441%5Cu043a%22%2C%22is_delivery%22%3A126%2C%22city_center%22%3A%5B0%2C0%5D%2C%22delivery_cities_search_names%22%3A%5B%22%5Cu041a%5Cu0430%5Cu0437%5Cu0430%5Cu043d%5Cu044c%22%5D%7D",
+                        "path": "/",
+                        "domain":"vitaexpress.ru"
+               },
+               "Нижнекамск": {
+                        "name": "user_city",
+                        "value": "%7B%22id%22%3A354%2C%22name%22%3A%22%5Cu041d%5Cu0438%5Cu0436%5Cu043d%5Cu0435%5Cu043a%5Cu0430%5Cu043c%5Cu0441%5Cu043a%22%2C%22is_delivery%22%3A44%2C%22city_center%22%3A%5B0%2C0%5D%2C%22delivery_cities_search_names%22%3A%5B%22%5Cu0410%5Cu043b%5Cu044c%5Cu043c%5Cu0435%5Cu0442%5Cu044c%5Cu0435%5Cu0432%5Cu0441%5Cu043a%22%5D%7D",
+                        "path": "/",
+                        "domain":"vitaexpress.ru"
+               },
+               "Набережные Челны": {
+                        "name": "user_city",
+                        "value": "%7B%22id%22%3A183%2C%22name%22%3A%22%5Cu041d%5Cu0430%5Cu0431%5Cu0435%5Cu0440%5Cu0435%5Cu0436%5Cu043d%5Cu044b%5Cu0435%20%5Cu0427%5Cu0435%5Cu043b%5Cu043d%5Cu044b%22%2C%22is_delivery%22%3A354%2C%22city_center%22%3A%5B0%2C0%5D%2C%22delivery_cities_search_names%22%3A%5B%22%5Cu041d%5Cu0438%5Cu0436%5Cu043d%5Cu0435%5Cu043a%5Cu0430%5Cu043c%5Cu0441%5Cu043a%22%5D%7D",
+                        "path": "/",
+                        "domain":"vitaexpress.ru"
+               },
+               "Кукмор": {
+                        "name": "user_city",
+                        "value": "%7B%22id%22%3A11226%2C%22name%22%3A%22%5Cu041a%5Cu0443%5Cu043a%5Cu043c%5Cu043e%5Cu0440%22%2C%22is_delivery%22%3A183%2C%22city_center%22%3A%5B0%2C0%5D%2C%22delivery_cities_search_names%22%3A%5B%22%5Cu041d%5Cu0430%5Cu0431%5Cu0435%5Cu0440%5Cu0435%5Cu0436%5Cu043d%5Cu044b%5Cu0435%20%5Cu0427%5Cu0435%5Cu043b%5Cu043d%5Cu044b%22%5D%7D",
+                        "path": "/",
+                        "domain":"vitaexpress.ru"
+               },
+               "Кукмор рп": {
+                        "name": "user_city",
+                        "value": "%7B%22id%22%3A11226%2C%22name%22%3A%22%5Cu041a%5Cu0443%5Cu043a%5Cu043c%5Cu043e%5Cu0440%22%2C%22is_delivery%22%3A183%2C%22city_center%22%3A%5B0%2C0%5D%2C%22delivery_cities_search_names%22%3A%5B%22%5Cu041d%5Cu0430%5Cu0431%5Cu0435%5Cu0440%5Cu0435%5Cu0436%5Cu043d%5Cu044b%5Cu0435%20%5Cu0427%5Cu0435%5Cu043b%5Cu043d%5Cu044b%22%5D%7D",
+                        "path": "/",
+                        "domain":"vitaexpress.ru"
+               },
+               "Лениногорск": {
+                        "name": "user_city",
+                        "value": "%7B%22id%22%3A11538%2C%22name%22%3A%22%5Cu041b%5Cu0435%5Cu043d%5Cu0438%5Cu043d%5Cu043e%5Cu0433%5Cu043e%5Cu0440%5Cu0441%5Cu043a%22%2C%22is_delivery%22%3A0%2C%22city_center%22%3A%5B0%2C0%5D%2C%22delivery_cities_search_names%22%3A%5B%22%5Cu041a%5Cu0443%5Cu043a%5Cu043c%5Cu043e%5Cu0440%22%5D%7D",
+                        "path": "/",
+                        "domain":"vitaexpress.ru"
+               }
+        },
+        "Оренбургская область":{
+              "Оренбург": {
+                        "name": "user_city",
+                        "value": "%7B%22id%22%3A214%2C%22name%22%3A%22%5Cu041e%5Cu0440%5Cu0435%5Cu043d%5Cu0431%5Cu0443%5Cu0440%5Cu0433%22%2C%22is_delivery%22%3A0%2C%22city_center%22%3A%5B0%2C0%5D%2C%22delivery_cities_search_names%22%3A%5B%22%5Cu041b%5Cu0435%5Cu043d%5Cu0438%5Cu043d%5Cu043e%5Cu0433%5Cu043e%5Cu0440%5Cu0441%5Cu043a%22%5D%7D",
+                        "path": "/",
+                        "domain":"vitaexpress.ru"
+                },
+              "Орск": {
+                        "name": "user_city",
+                        "value": "%7B%22id%22%3A216%2C%22name%22%3A%22%5Cu041e%5Cu0440%5Cu0441%5Cu043a%22%2C%22is_delivery%22%3A214%2C%22city_center%22%3A%5B0%2C0%5D%2C%22delivery_cities_search_names%22%3A%5B%22%5Cu041e%5Cu0440%5Cu0435%5Cu043d%5Cu0431%5Cu0443%5Cu0440%5Cu0433%22%5D%7D",
+                        "path": "/",
+                        "domain":"vitaexpress.ru"
+                }
+        },
+        "Тюменская область": {
+                "Тюмень": {
+                        "name": "user_city",
+                        "value": "%7B%22id%22%3A286%2C%22name%22%3A%22%5Cu0422%5Cu044e%5Cu043c%5Cu0435%5Cu043d%5Cu044c%22%2C%22is_delivery%22%3A0%2C%22city_center%22%3A%5B0%2C0%5D%2C%22delivery_cities_search_names%22%3A%5B%22%5Cu041e%5Cu0440%5Cu0441%5Cu043a%22%5D%7D",
+                        "path": "/",
+                        "domain":"vitaexpress.ru"
+                }
+        },
+        "Cвердловская область": {
+                "Полевской": {
+                        "name": "user_city",
+                        "value": "%7B%22id%22%3A233%2C%22name%22%3A%22%5Cu041f%5Cu043e%5Cu043b%5Cu0435%5Cu0432%5Cu0441%5Cu043a%5Cu043e%5Cu0439%22%2C%22is_delivery%22%3A286%2C%22city_center%22%3A%5B0%2C0%5D%2C%22delivery_cities_search_names%22%3A%5B%22%5Cu0422%5Cu044e%5Cu043c%5Cu0435%5Cu043d%5Cu044c%22%5D%7D",
+                        "path": "/",
+                        "domain":"vitaexpress.ru"
+                },
+                "Екатеринбург": {
+                        "name": "user_city",
+                        "value": "%7B%22id%22%3A106%2C%22name%22%3A%22%5Cu0415%5Cu043a%5Cu0430%5Cu0442%5Cu0435%5Cu0440%5Cu0438%5Cu043d%5Cu0431%5Cu0443%5Cu0440%5Cu0433%22%2C%22is_delivery%22%3A233%2C%22city_center%22%3A%5B0%2C0%5D%2C%22delivery_cities_search_names%22%3A%5B%22%5Cu041f%5Cu043e%5Cu043b%5Cu0435%5Cu0432%5Cu0441%5Cu043a%5Cu043e%5Cu0439%22%5D%7D",
+                        "path": "/",
+                        "domain":"vitaexpress.ru"
+                },
+                "Нижний Тагил": {
+                        "name": "user_city",
+                        "value": "%7B%22id%22%3A191%2C%22name%22%3A%22%5Cu041d%5Cu0438%5Cu0436%5Cu043d%5Cu0438%5Cu0439%20%5Cu0422%5Cu0430%5Cu0433%5Cu0438%5Cu043b%22%2C%22is_delivery%22%3A106%2C%22city_center%22%3A%5B0%2C0%5D%2C%22delivery_cities_search_names%22%3A%5B%22%5Cu0415%5Cu043a%5Cu0430%5Cu0442%5Cu0435%5Cu0440%5Cu0438%5Cu043d%5Cu0431%5Cu0443%5Cu0440%5Cu0433%22%5D%7D",
+                        "path": "/",
+                        "domain":"vitaexpress.ru"
+                },
+                "Сухой Лог": {
+                  "name": "user_city",
+                  "value": "%7B%22id%22%3A14922%2C%22name%22%3A%22%5Cu0421%5Cu0443%5Cu0445%5Cu043e%5Cu0439%20%5Cu041b%5Cu043e%5Cu0433%22%2C%22is_delivery%22%3A0%2C%22city_center%22%3A%5B0%2C0%5D%2C%22delivery_cities_search_names%22%3A%5B%22%5Cu0427%5Cu0435%5Cu0441%5Cu043d%5Cu043e%5Cu043a%5Cu043e%5Cu0432%5Cu043a%5Cu0430%22%5D%7D",
+                  "path": "/",
+                  "domain": "vitaexpress.ru"
+                }
+        },
+        "Московская область": {
+                "Москва": {
+                        "name": "user_city",
+                        "value": "%7B%22id%22%3A182%2C%22name%22%3A%22%5Cu041c%5Cu043e%5Cu0441%5Cu043a%5Cu0432%5Cu0430%22%2C%22is_delivery%22%3A191%2C%22city_center%22%3A%5B0%2C0%5D%2C%22delivery_cities_search_names%22%3A%5B%22%5Cu041d%5Cu0438%5Cu0436%5Cu043d%5Cu0438%5Cu0439%20%5Cu0422%5Cu0430%5Cu0433%5Cu0438%5Cu043b%22%5D%7D",
+                        "path": "/",
+                        "domain":"vitaexpress.ru"
+                }
+        }
+}
