@@ -10,13 +10,18 @@ DB_NAME = 'pharmsraperdb'
 R_HOST = "188.225.27.147"
 R_PASSWORD = "bdcff9334960d8b090af975c204236e29a736722e199610085b9a81c5c30685a"
 
+import asyncio
+import asyncpg
+from playwright.async_api import async_playwright
+data_1 = []
+#
 # info = [r['id'], r['site'], r['task_id'], r['main']['region'], r['main']['city']]
 # for i in info[3]:
 #     print(i)
 # print(info)
 # pgcon = await asyncpg.connect(host=DB_HOST, user=DB_USER, database=DB_NAME,
 #                               password=DB_PASSWORD)
-#
+
 # command = f'''INSERT INTO products (
 #                                     pharm,
 #                                     region,
@@ -39,6 +44,6 @@ R_PASSWORD = "bdcff9334960d8b090af975c204236e29a736722e199610085b9a81c5c30685a"
 #                                     );'''
 #
 # await pgcon.execute(command)
-#
-#
+
+
 # await pgcon.close()
