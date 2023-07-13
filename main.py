@@ -17,7 +17,7 @@ class SupperParserVita():
 
     async def save_in_dbeaver(self, save_dbeaver):
         connection = await asyncpg.connect(host=DB_HOST, user=DB_USER, database=DB_NAME, password=DB_PASSWORD)
-
+        rep = r"\'"
         for save in save_dbeaver:
             command = f'''INSERT INTO products (
                                     pharm,
@@ -32,15 +32,17 @@ class SupperParserVita():
                                     '{save['site']}',
                                     '{save['region']}',
                                     '{save['city']}',
-                                    E'{save['name']}',
+                                    E'{save['name'].replace("'", rep)}',
                                     '{save['apteka']}',
                                     '{save['price']}',
                                     '{save['count']}',
                                     '{save['dataGodn']}',
                                     '{save['task_id']}'
                                     );'''
+
             # star = datetime.datetime.now()
             await connection.execute(command)
+
         # print(datetime.datetime.now() - star)
         # star = datetime.datetime.now()
         await connection.close()
@@ -66,7 +68,7 @@ class SupperParserVita():
 
                     for i in main_address['TODAY_RESULT']['RESULT']:
                         #main_address_g = i['address']
-                        main_name_g = i['name'], i['address']
+                        main_name_g = f"{i['name']}, {i['address']}"
                         #print(main_name_g)
                         #address.append(main_address_g)
                         address.append(main_name_g)
@@ -86,7 +88,7 @@ class SupperParserVita():
                             'price': price,
                             'count': '-',
                             'dataGodn': '',
-                            'task_id': int(task_id + 'test')}
+                            'task_id': 555}
                                            )
 
                     print(save_dbeaver)
@@ -122,7 +124,7 @@ class SupperParserVita():
                                  'price': price,
                                  'count': '-',
                                  'dataGodn': '',
-                                 'task_id': int(task_id + ' test')}
+                                 'task_id': 555}
                             )
 
                         print(save_dbeaver)
@@ -158,7 +160,7 @@ class SupperParserVita():
                                  'price': price,
                                  'count': '-',
                                  'dataGodn': '',
-                                 'task_id': int(task_id + 'test')}
+                                 'task_id': 555}
                             )
 
                         print(save_dbeaver)
