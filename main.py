@@ -184,7 +184,7 @@ class SupperParserVita():
         else:
             self.p = await async_playwright().start()
             url = "https://vitaexpress.ru"
-            browser = await self.p.firefox.launch(proxy={"server": "http://192.168.0.201:3132", "username": "artmax", "password": "artmax"}, headless=False)
+            browser = await self.p.firefox.launch(proxy={"server": "http://194.168.0.221:3152", "username": "username", "password": "username"}, headless=False)
             context = await browser.new_context(base_url="https://vitaexpress.ru")
             self.page = await context.new_page()
             with open("vita_cookie_city.json", "r") as f:
